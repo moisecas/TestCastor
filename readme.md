@@ -1,4 +1,4 @@
-##Importación de Módulos: 
+## Importación de Módulos: 
 Se importan los módulos necesarios de selenium y webdriver_manager.
 Configuración de ChromeOptions: Opciones para el navegador Chrome.
 Inicialización del Driver: Se inicializa el driver de Chrome usando ChromeDriverManager para gestionar automáticamente la descarga e instalación del ChromeDriver.
