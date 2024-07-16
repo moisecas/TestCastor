@@ -1,3 +1,8 @@
+# Video Explicativo
+
+Para una demostración en video de este proyecto, mira el siguiente video en YouTube: https://youtu.be/2-1qpHPD6Vw 
+
+
 # Cypress TodoApp Test Suite
 
 Este proyecto contiene un conjunto de pruebas automatizadas para una aplicación web ficticia llamada TodoApp utilizando Cypress. El proyecto está configurado para realizar pruebas tanto de la interfaz de usuario como de la API de la aplicación.
